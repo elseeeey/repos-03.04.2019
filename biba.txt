@@ -5,4 +5,4 @@ int e
 int f
 sadasd
 osasdpsdkek;
-smar budulnik kod;
+smar budulnik kod
