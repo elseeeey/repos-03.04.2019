@@ -1,4 +1,5 @@
-int abcñññ
+int abc
+int abc
 int b
 int c
 int e
