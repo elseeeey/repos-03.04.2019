@@ -1,10 +1,4 @@
-aaaaa
-a
-a
-a
-a
-a
-int abc
+int abcñññ
 int b
 int c
 int e
